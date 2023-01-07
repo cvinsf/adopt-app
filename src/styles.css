@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Jiggyloww 
-btholt
-/
-citr-v8-project
-Public
-Code
-Pull requests
-1
-Actions
-Security
-Insights
-citr-v8-project/03-jsx/src/style.css
-@btholt
-btholt fix css
-Latest commit f4e6419 on Oct 17, 2022
- History
- 1 contributor
-366 lines (314 sloc)  5.47 KB
-
 * {
   box-sizing: border-box;
   color: #333;
@@ -391,18 +364,3 @@ form .pet {
 .mini .loader {
   font-size: 34px;
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-citr-v8-project/style.css at main · btholt/citr-v8-project
